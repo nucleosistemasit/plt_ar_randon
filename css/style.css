@@ -1,0 +1,46 @@
+.h-10 {
+    height: 10%;
+}
+
+.h-90 {
+    height: 90%;
+}
+
+.tag-epi {
+    width: 100%;
+    height: 100%;
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.tag-epi-1 {
+    background-image: url("../imgs/1.png");
+}
+.tag-epi-2 {
+    background-image: url("../imgs/2.png");
+}
+.tag-epi-3 {
+    background-image: url("../imgs/3.png");
+}
+.tag-epi-4 {
+    background-image: url("../imgs/4.png");
+}
+.tag-epi-5 {
+    background-image: url("../imgs/5.png");
+}
+.tag-epi-6 {
+    background-image: url("../imgs/6.png");
+}
+.tag-epi-7 {
+    background-image: url("../imgs/7.png");
+}
+.tag-epi-8 {
+    background-image: url("../imgs/8.png");
+}
+.tag-epi-9 {
+    background-image: url("../imgs/9.png");
+}
+.tag-epi-0 {
+    background-image: url("../imgs/10.png");
+}
